@@ -1,5 +1,8 @@
 # Taskly
 
+<img src="./screenshots/taskly.png" width="300" />
+
+
 Taskly is a beginner-friendly **Flutter task management app** built as part of *The Complete Flutter Development Course*.  
 This app demonstrates fundamental Flutter concepts, including UI design, state handling, models, and navigation.
 
