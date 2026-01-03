@@ -1,3 +1,4 @@
+> Taskly – A simple Flutter task management app
 # taskly
 
 A new Flutter project.
