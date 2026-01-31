@@ -18,7 +18,6 @@ Key focus areas in the app:
 
 This project is ideal for developers learning Flutter app structure and widget composition.
 
----
 
 ## 🔍 App Features
 
@@ -28,8 +27,7 @@ This project is ideal for developers learning Flutter app structure and widget c
 ✔ Easy UI for beginners to understand  
 ✔ Fully runnable Flutter project
 
----
-
+```
 ## 📁 Project Structure
 
 taskly/
@@ -48,10 +46,6 @@ taskly/
 ├── pubspec.yaml
 └── README.md
 
-yaml
-Copy code
-
----
 
 ## 🛠️ Getting Started
 
@@ -63,24 +57,16 @@ Make sure you have:
 - Flutter installed (Flutter SDK)
 - A connected device or emulator
 
----
-
 ### Clone the Project
 
-```bash
 git clone https://github.com/hussain-mustafa990/the_complete_flutter_development_course.git
 Navigate to Taskly:
 
-bash
-Copy code
 cd the_complete_flutter_development_course/taskly
 Install Dependencies
-bash
-Copy code
+
 flutter pub get
 Run the App
-bash
-Copy code
 flutter run
 Your app should launch on the connected device or simulator.
 
@@ -97,39 +83,3 @@ Taskly helps you understand:
 ✔ Add persistent storage (e.g., SQLite or Hive)
 ✔ Add the ability to mark tasks complete
 ✔ Add task deletion and editing
-
-🚀 Next Improvements You Can Add
-Add animations and transitions
-Add dark mode
-
-📄 License
-This project uses the same license as the parent repository.
-
-🙌 Contribution
-This project was created for learning. Feel free to extend it.
-Submit issues or pull requests to improve this further.
-
-yaml
-Copy code
-
-### Instructions for you
-
-1. **Save this text to the README.md** inside the `taskly` folder.
-2. Make sure your screenshots folder has the correct images.
-3. Push to GitHub and verify.
-
-
-If you want, I can also write:
-
-✔ A **landing page image banner**  
-✔ A **detailed features table**  
-✔ A **demo GIF section**  
-✔ A **professional README for the entire course repo**
-
-Tell me which upgrade you want next.
-::contentReference[oaicite:0]{index=0}
-
-
-
-
-
